@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-My name is Joshua Kiprono. I am a Computer Science student and a developer trying to create solutions using code. I would ideally like to combine software development with data science to build data driven and products that can solve problems and derive insights from customers and developers. Outside coding, I spend a considerable amount of time volunteering and mentoring other students.
+My name is Joshua Kiprono. I am a Computer Science student and a developer trying to create solutions using code. My goal is to combine software development with data science to build data driven and products that can solve problems and derive insights from customers and developers. Outside coding, I spend a considerable amount of time volunteering.
 
 
 ### Find me around the web
