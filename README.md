@@ -6,14 +6,6 @@
 
 My name is Joshua Kiprono. I am a Computer Science student and a developer trying to create solutions using code. My goal is to combine software development with data science to build data driven and products that can solve problems and derive insights from customers and developers. Outside coding, I spend a considerable amount of time volunteering.
 
-
-### Find me around the web
-<p align="left">
-<a href="https://twitter.com/joshua_kiprono" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/joshuakiprono/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-</p>
-
-
 <h2 align="center">Stats</h2>
 <br>
 <p align=center>
