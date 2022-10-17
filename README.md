@@ -1,10 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;;&center=true&size=20">
-  </a>
-</h1>
+👋🏽 Hi!
 
-My name is Joshua Kiprono. I am a Computer Science student and a developer trying to create solutions using code. My goal is to combine software development with data science to build data driven and products that can solve problems and derive insights from customers and developers. Outside coding, I spend a considerable amount of time volunteering.
+I am a Computer Science student and a developer trying to create solutions using code. My goal is to combine software development with data science to build data driven and products that can solve problems and derive insights from customers and developers. Outside coding, I spend a considerable amount of time volunteering.
 
 <h2 align="center">Stats</h2>
 <br>
