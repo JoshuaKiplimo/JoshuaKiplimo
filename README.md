@@ -1,6 +1,3 @@
-👋🏽
-
-I am a Computer Science student and a developer trying to create solutions using code. My goal is to combine software development with data science to build data driven and products that can solve problems and derive insights from customers and developers. Outside coding, I spend a considerable amount of time volunteering.
 
 <h2 align="center">Stats</h2>
 <br>
